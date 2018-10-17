@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hello World");
 	System.out.println("Second Line");
 	    //add error msg
-	    error2
+	    error2/ error3
     }
 }
